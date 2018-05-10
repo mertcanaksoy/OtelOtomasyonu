@@ -1,0 +1,74 @@
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe.config
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.pdb
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csprojResolveAssemblyReference.cache
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.Properties.Resources.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csproj.GenerateResource.Cache
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.pdb
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmYeniMusteri.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmAnaForm.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmPersonelGiris.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmOdalar.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmMusteriler.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe.config
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.pdb
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.pdb
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csprojResolveAssemblyReference.cache
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmMusteriler.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmPersonelGiris.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmAnaForm.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmOdalar.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmYeniMusteri.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.Properties.Resources.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu V1.3\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csproj.GenerateResource.Cache
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe.config
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.pdb
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.pdb
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csprojResolveAssemblyReference.cache
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmMusteriler.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmPersonelGiris.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmAnaForm.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmOdalar.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmYeniMusteri.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.Properties.Resources.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csproj.GenerateResource.Cache
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmGelirGider.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmStok.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Interop.WMPLib.dll
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\AxInterop.WMPLib.dll
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Interop.WMPLib.dll
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\AxInterop.WMPLib.dll
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csproj.ResolveComReference.cache
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmRadyoDinle.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmSifreGuncelle.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmDuyurular.resources
+F:\YAZILIM\C# Dersleri\1 Murat Yücedağ\Projeler\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmDuyuruEkle.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe.config
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Pansiyon Otomasyonu.pdb
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\Interop.WMPLib.dll
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\bin\Debug\AxInterop.WMPLib.dll
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csprojResolveAssemblyReference.cache
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Interop.WMPLib.dll
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\AxInterop.WMPLib.dll
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csproj.ResolveComReference.cache
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmDuyurular.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmDuyuruEkle.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmGelirGider.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmMusteriler.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmPersonelGiris.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmAnaForm.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmOdalar.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmRadyoDinle.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmSifreGuncelle.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmStok.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmYeniMusteri.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.Properties.Resources.resources
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.csproj.GenerateResource.Cache
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.exe
+F:\YAZILIM\PROJELER\Pansiyon Otomasyonu\Pansiyon Otomasyonu\Pansiyon Otomasyonu\obj\Debug\Pansiyon Otomasyonu.pdb
